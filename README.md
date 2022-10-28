@@ -5,7 +5,7 @@ Ilość punktów: 9/10 :blush:
 Cześć! Jestem Jowita, mam 29 lat i trójkę małych dzieci, którym całkowicie się poświęciłam. Teraz przyszedł czas na mnie, znalazłam swoją drogę, którą chcę podążać i liczę na to, że niedługo pójdę do swojej pierwszej, wymarzonej pracy (Dokładnie tak, pierwszej w życiu. Wcześniej studiowałam, trochę chorowałam, następnie założyłam rodzinę). Swoją naukę rozpoczęłam od przeczytania Sylabusa oraz książek dotyczących tego zawodu, korzystałam i korzystam nadal z przeróżnych materiałów dostępnych na internecie i się "wkręciłam". Dlaczego wybrałam ten kurs? Przede wszystkim po to, by poszerzyć swoją wiedzę i nauczyć się dobrych praktyk. Wierzę, że wyjdę z tego kursu pewniejsza siebie i gotowa na dalszą naukę i rozwój. Jestem bardzo podekscytowana 😄
 ### Subtask 4 
 1. Testowana aplikacja jest bazą danych o piłkarzach. Pozwala na dodawanie nowych graczy, meczy i raportów z nich. Jest dostępna również w języku angielskim.
-2. Funkcjonalności:
+2. ..* Funkcjonalności:
 - dodawanie nowego gracza
 - dodawanie nowego meczu z poziomu danego gracza
 - dodawanie raportu z meczu 
