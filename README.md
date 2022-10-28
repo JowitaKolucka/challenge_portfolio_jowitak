@@ -6,7 +6,7 @@ Cześć! Jestem Jowita, mam 29 lat i trójkę małych dzieci, którym całkowici
 <h3> Subtask 4 </h3>
 1. Testowana aplikacja jest bazą danych o piłkarzach. Pozwala na dodawanie nowych graczy, meczy i raportów z nich. Jest dostępna również w języku angielskim.
 2. Funkcjonalności:
-- dodawanie nowego gracza;
+- dodawanie nowego gracza
 - dodawanie nowego meczu z poziomu danego gracza
 - dodawanie raportu z meczu 
 - spis graczy 
