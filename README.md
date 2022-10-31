@@ -10,6 +10,7 @@ Cześć! Jestem Jowita, mam 29 lat i trójkę małych dzieci, którym całkowici
 - dodawanie nowego meczu z poziomu danego gracza
 - dodawanie raportu z meczu 
 - spis graczy 
+- możliwość wydrukowania listy graczy oraz wygenerowania pliku .csv
 - intuicyjne jest dodanie nowego gracza, reszta niestety nie. W Linkach Pomocniczych powinno być więcej odnośników, np. do  dodania nowego meczu, czy raportu z niego. Ponadto brakuje ważnej funkcji usunięcia gracza.
 #### 3. Interfejs - prosty, możnaby było wyodrębnić niektóre funkcjonalności.
 #### 4. Intuicyjność - funkcja dodania nowego gracza jest intuicyjna, a reszta funkcjonalności nie. 
@@ -37,7 +38,7 @@ Załącznik: ![image](https://user-images.githubusercontent.com/115720724/198888
 - Błąd 12: W edycji meczu dla gracza w polach "Stracone gole" oraz "Zdobyte gole" można wpisać dużą ilość liczb.
 Załącznik:
 ![image](https://user-images.githubusercontent.com/115720724/198888880-b69fbdad-850d-4cdb-9f34-871253cc2a91.png)
-- Błąd 13: 
+
 
 
  
