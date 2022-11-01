@@ -12,8 +12,10 @@ Cześć! Jestem Jowita, mam 29 lat i trójkę małych dzieci, którym całkowici
 - spis graczy 
 - możliwość wydrukowania listy graczy oraz wygenerowania pliku .csv
 - intuicyjne jest dodanie nowego gracza, reszta niestety nie. W Linkach Pomocniczych powinno być więcej odnośników, np. do  dodania nowego meczu, czy raportu z niego. Ponadto brakuje ważnej funkcji usunięcia gracza.
-#### 3. Interfejs - prosty, możnaby było wyodrębnić niektóre funkcjonalności.
-#### 4. Intuicyjność - **funkcja dodania nowego gracza jest intuicyjna, a reszta funkcjonalności nie. Aplikacja jest ogólnie mało czytelna, można się w niej pogubić.** 
+#### 3. Interfejs - 
+prosty, możnaby było wyodrębnić niektóre funkcjonalności.
+#### 4. Intuicyjność -
+funkcja dodania nowego gracza jest intuicyjna, a reszta funkcjonalności nie. Aplikacja jest ogólnie mało czytelna, można się w niej pogubić. 
 #### 5. Błędy:
 - Błąd 01: Podczas otwierania strony w narzędziu Devtools pojawił się błąd z kodowaniem http 404. Link url: https://scouts-test.futbolkolektyw.pl/pl/favicon.ico
 - Błąd 02: Po sprawdzeniu walidacji boxu do logowania poprzez kliknięcie w przycisk "Zaloguj", po odświeżeniu strony przycisk "Zaloguj" zmienił swoje położenie i znajduje się na granicy z boxem.
