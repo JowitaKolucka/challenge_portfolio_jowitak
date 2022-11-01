@@ -4,7 +4,8 @@ Ilość punktów: 9/10 :blush:
 ### Subtask 3
 Cześć! Jestem Jowita, mam 29 lat i trójkę małych dzieci, którym całkowicie się poświęciłam. Teraz przyszedł czas na mnie, znalazłam swoją drogę, którą chcę podążać i liczę na to, że niedługo pójdę do swojej pierwszej, wymarzonej pracy (Dokładnie tak, pierwszej w życiu. Wcześniej studiowałam, trochę błądziłam słuchając sugestii innych bardziej niż siebie, następnie założyłam rodzinę). Swoją naukę rozpoczęłam od rozmów z koleżanką, opowiadała mi dużo o swojej pracy jako testerka, wysłała mi Sylabusa od którego zaczęłam, następnie przeczytałam parę książek dotyczących tego zawodu, korzystałam i korzystam nadal z przeróżnych materiałów dostępnych na internecie i się "wkręciłam". Dlaczego wybrałam ten kurs? Przede wszystkim po to, by _poszerzyć_ swoją wiedzę i _nauczyć się dobrych praktyk_, nie chcę wyrabiać w sobie złych nawyków. Wierzę, że wyjdę z tego kursu pewniejsza siebie i gotowa na dalszą naukę i rozwój. Jestem bardzo podekscytowana 😄
 ### Subtask 4 
-1. Testowana aplikacja jest bazą danych o piłkarzach oraz meczach. Pozwala na dodawanie nowych graczy, meczy i raportów z nich. Jest dostępna również w języku angielskim.
+#### 1. Na czym polega aplikacja:
+Testowana aplikacja jest bazą danych o piłkarzach oraz meczach. Pozwala na dodawanie nowych graczy, meczy i raportów z nich. Jest dostępna również w języku angielskim.
 #### 2. Funkcjonalności:
 - dodawanie nowego gracza
 - dodawanie nowego meczu z poziomu danego gracza
