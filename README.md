@@ -45,6 +45,10 @@ Załącznik:
 ![image](https://user-images.githubusercontent.com/115720724/198888880-b69fbdad-850d-4cdb-9f34-871253cc2a91.png)
 - Błąd 15: W formukarzu edycji Raportów meczowych nie ma walidacji dotyczącej limitu znaków.
 - W konsoli w Devtoolsach pojawiają się komunikaty: "Nie udało się załadować elementu mapy źródeł" oraz "Params `start` and `limit` are deprecated. Use `_start` and `_limit`"
+- Błąd 16: W polu "Imię" aplikacja zaakceptowała 239463 liter, więcej nie wpisywałam. Wydaje mi się, że reszta pól także nie posiada walidacji dotyczącej maksymalnej liczby znaków. Po wpisaniu w wyszukiwarce graczy tego "gracza", aplikacja się porzeszyła i żeby otworzyć więcej informacji o nim trzeba bardzo długo przewijać stronę w bok  ![image](https://user-images.githubusercontent.com/115720724/199312898-1c397bbe-9310-48e2-9814-d6a03e7315eb.png)
+Podobna sytuacja jest po kliknięciu w tego zawodnika: ![image](https://user-images.githubusercontent.com/115720724/199313034-be9112b1-7806-465e-8f8c-a805de939b8d.png)
+Po kliknięciu w homepage w dane tego zawodnika strona długo nie odpowiada, po czym się wyłącza: ![image](https://user-images.githubusercontent.com/115720724/199313272-9e160a24-cf42-4404-a140-e9a9f9815697.png)
+
 - Sprawdziłam działanie aplikacji zmieniając sieć na wolną 3G oraz szybką 3G, na tej wolniejszej sieci oczekiwanie na otwarcie strony jest dość długie.
 - W emulatorze urządzeń na IPhonie 12 Pro, Samsungach funkcja przewijania informacji o zawodniku nie działa jak powinna. Po obróceniu ekranu już lepiej to wygląda.
 
