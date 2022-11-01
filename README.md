@@ -2,7 +2,7 @@
 ### Subtask 1
 Ilość punktów: 9/10 :blush:
 ### Subtask 3
-Cześć! Jestem Jowita, mam 29 lat i trójkę małych dzieci, którym całkowicie się poświęciłam. Teraz przyszedł czas na mnie, znalazłam swoją drogę, którą chcę podążać i liczę na to, że niedługo pójdę do swojej pierwszej, wymarzonej pracy (Dokładnie tak, pierwszej w życiu. Wcześniej studiowałam, trochę chorowałam, następnie założyłam rodzinę). Swoją naukę rozpoczęłam od przeczytania Sylabusa oraz książek dotyczących tego zawodu, korzystałam i korzystam nadal z przeróżnych materiałów dostępnych na internecie i się "wkręciłam". Dlaczego wybrałam ten kurs? Przede wszystkim po to, by poszerzyć swoją wiedzę i nauczyć się dobrych praktyk. Wierzę, że wyjdę z tego kursu pewniejsza siebie i gotowa na dalszą naukę i rozwój. Jestem bardzo podekscytowana 😄
+Cześć! Jestem Jowita, mam 29 lat i trójkę małych dzieci, którym całkowicie się poświęciłam. Teraz przyszedł czas na mnie, znalazłam swoją drogę, którą chcę podążać i liczę na to, że niedługo pójdę do swojej pierwszej, wymarzonej pracy (Dokładnie tak, pierwszej w życiu. Wcześniej studiowałam, trochę błądziłam słuchając sugestii innych bardziej niż siebie, następnie założyłam rodzinę). Swoją naukę rozpoczęłam od rozmów z koleżanką, opowiadała mi dużo o swojej pracy jako testerka, wysłała mi Sylabusa od którego zaczęłam, następnie przeczytałam parę książek dotyczących tego zawodu, korzystałam i korzystam nadal z przeróżnych materiałów dostępnych na internecie i się "wkręciłam". Dlaczego wybrałam ten kurs? Przede wszystkim po to, by _poszerzyć_ swoją wiedzę i _nauczyć się dobrych praktyk_, nie chcę wyrabiać w sobie złych nawyków. Wierzę, że wyjdę z tego kursu pewniejsza siebie i gotowa na dalszą naukę i rozwój. Jestem bardzo podekscytowana 😄
 ### Subtask 4 
 1. Testowana aplikacja jest bazą danych o piłkarzach oraz meczach. Pozwala na dodawanie nowych graczy, meczy i raportów z nich. Jest dostępna również w języku angielskim.
 #### 2. Funkcjonalności:
@@ -11,10 +11,10 @@ Cześć! Jestem Jowita, mam 29 lat i trójkę małych dzieci, którym całkowici
 - dodawanie raportu z meczu 
 - spis graczy 
 - możliwość wydrukowania listy graczy oraz wygenerowania pliku .csv
-- intuicyjne jest dodanie nowego gracza, reszta niestety nie. W Linkach Pomocniczych powinno być więcej odnośników, np. do  dodania nowego meczu, czy raportu z niego. Ponadto brakuje ważnej funkcji usunięcia gracza.
-#### 3. Interfejs - 
-prosty, możnaby było wyodrębnić niektóre funkcjonalności.
-#### 4. Intuicyjność -
+- intuicyjne jest dodanie nowego gracza, reszta niestety nie. W Linkach Pomocniczych powinno być więcej odnośników, np. do  dodania nowego meczu, czy raportu z niego. Ponadto brakuje ważnej funkcji usunięcia gracza oraz opcji usunięcia meczów i raportów z nich. Przez to robi się bałagan w aplikacji i jest dużo niepotrzebnych danych.
+#### 3. Interfejs  
+prosty, możnaby było wyodrębnić niektóre funkcjonalności, żeby była przyjemniejsza w odbiorze.
+#### 4. Intuicyjność 
 funkcja dodania nowego gracza jest intuicyjna, a reszta funkcjonalności nie. Aplikacja jest ogólnie mało czytelna, można się w niej pogubić. 
 #### 5. Błędy:
 - Błąd 01: Podczas otwierania strony w narzędziu Devtools pojawił się błąd z kodowaniem http 404. Link url: https://scouts-test.futbolkolektyw.pl/pl/favicon.ico
