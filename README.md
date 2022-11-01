@@ -44,6 +44,7 @@ Załącznik: ![image](https://user-images.githubusercontent.com/115720724/198888
 Załącznik:
 ![image](https://user-images.githubusercontent.com/115720724/198888880-b69fbdad-850d-4cdb-9f34-871253cc2a91.png)
 - Błąd 15: W formukarzu edycji Raportów meczowych nie ma walidacji dotyczącej limitu znaków.
+- W konsoli w Devtoolsach pojawiają się komunikaty: "Nie udało się załadować elementu mapy źródeł" oraz "Params `start` and `limit` are deprecated. Use `_start` and `_limit`"
 - Sprawdziłam działanie aplikacji zmieniając sieć na wolną 3G oraz szybką 3G, na tej wolniejszej sieci oczekiwanie na otwarcie strony jest dość długie.
 - W emulatorze urządzeń na IPhonie 12 Pro, Samsungach funkcja przewijania informacji o zawodniku nie działa jak powinna. Po obróceniu ekranu już lepiej to wygląda.
 
