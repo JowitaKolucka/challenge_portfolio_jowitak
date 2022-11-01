@@ -25,19 +25,22 @@ Załącznik: ![image](https://user-images.githubusercontent.com/115720724/198887
 - Błąd 04: W polach "Imię" oraz "Nazwisko" możliwe jest wpisanie cyfr oraz znaków specjalnych. 
 Załącznik: ![image](https://user-images.githubusercontent.com/115720724/198888589-1be343d4-a3ad-4b5b-ab1e-00d90edcdb42.png)
 
-- Błąd 05: W polu "Waga" nie można wpisać liczb po przecinku. System akceptuje liczby całkowite.
+- Błąd 05: W polu "Waga" nie można wpisać innych liczb po przecinku niż "0". Ponadto aplikacja akceptuje wpisanie dużej ilośći cyfr oraz akceptuje wartości ujemne.
 - Błąd 06: W polu z datą urodzenia można podać datę urodzenia z dużym wyprzedzeniem.
-- Błąd 07: Podczas edycji danych gracza po kliknięciu przycisku "Clear" dane się nie wymazują, kliknięcie tego przycisku powoduje cofnięcie jednej czynności. 
-- Błąd 08: Przy edycji meczu danego gracza po kliknięciu przycisku "Clear" wymazuje się część danych (bez gwiazdki), a w polu "Stracone gole" pojawia się nieprawidłowa wartość. W załączniku stan po naciśnięciu przycisku "Clear", przed nim wszystkie pola były wypełnione.
+- Błąd 07: W polu "Klub" możliwe jest wpisanie dużej ilości cyfr, liczb oraz znaków specjalnych.
+- Błąd 08: Podczas edycji danych gracza po kliknięciu przycisku "Clear" dane się nie wymazują, kliknięcie tego przycisku powoduje cofnięcie jednej czynności. 
+- Błąd 09: Przy edycji meczu danego gracza po kliknięciu przycisku "Clear" wymazuje się część danych (bez gwiazdki), a w polu "Stracone gole" pojawia się nieprawidłowa wartość. W załączniku stan po naciśnięciu przycisku "Clear", przed nim wszystkie pola były wypełnione.
 ![image](https://user-images.githubusercontent.com/115720724/198889367-8b8e2e05-ec3e-4d0b-a52c-ecab8d59e1b6.png)
 
-- Błąd 09: Po kliknięciu w menu "Raporty", następnie "Dodaj Raport" zostajemy przekierowani na stronę "Mecze". 
-- Błąd 10: Na stronie "Mecze", po wybraniu Akcji "Rozpocznij mecz" możliwe jest wysłanie pustego raportu. 
-- Błąd 11: Nie działające tłumaczenie na język angielski (Z konta user02@getnada.com)
+- Błąd 10: Podczas edycji meczu w polach z drużyną zawodnika i przeciwną można wpisać nieskończenie dużą ilość znaków specjalnych, cyfr oraz liter.
+- Błąd 11: Po kliknięciu w menu "Raporty", następnie "Dodaj Raport" zostajemy przekierowani na stronę "Mecze". 
+- Błąd 12: Na stronie "Mecze", po wybraniu Akcji "Rozpocznij mecz" możliwe jest wysłanie pustego raportu. 
+- Błąd 13: Nie działające tłumaczenie na język angielski (Z konta user02@getnada.com)
 Załącznik: ![image](https://user-images.githubusercontent.com/115720724/198888506-62a97d66-5a33-4b9d-a6d2-07d1c8da94fb.png)
-- Błąd 12: W edycji meczu dla gracza w polach "Stracone gole" oraz "Zdobyte gole" można wpisać dużą ilość liczb.
+- Błąd 14: W edycji meczu dla gracza w polach "Stracone gole" oraz "Zdobyte gole" można wpisać dużą ilość liczb.
 Załącznik:
 ![image](https://user-images.githubusercontent.com/115720724/198888880-b69fbdad-850d-4cdb-9f34-871253cc2a91.png)
+- Błąd 15: W formukarzu edycji Raportów meczowych 
 
 
 
