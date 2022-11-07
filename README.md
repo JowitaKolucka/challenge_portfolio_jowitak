@@ -56,8 +56,12 @@ Po kliknięciu w homepage w dane tego zawodnika strona długo nie odpowiada, po 
 # TASK2
 ### Subtask 3
 
+_Why should we write test cases?_
+- writing test cases is important step to improve application quality
+- writing test cases helps us to check if application meets the requirements of the user
+- helps to check the behavior of the application
+- helps us to keep consistency in testing
+- test cases are a source of informations for employees
 
 
-
- 
 
