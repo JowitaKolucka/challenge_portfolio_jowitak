@@ -53,6 +53,10 @@ Po kliknięciu w homepage w dane tego zawodnika strona długo nie odpowiada, po 
 - Sprawdziłam działanie aplikacji zmieniając sieć na wolną 3G oraz szybką 3G, na tej wolniejszej sieci oczekiwanie na otwarcie strony jest dość długie.
 - W emulatorze urządzeń na IPhonie 12 Pro, Samsungach funkcja przewijania informacji o zawodniku nie działa jak powinna. Po obróceniu ekranu już lepiej to wygląda.
 
+# TASK2
+### Subtask 3
+
+
 
 
  
