@@ -54,6 +54,12 @@ Po kliknięciu w homepage w dane tego zawodnika strona długo nie odpowiada, po 
 - W emulatorze urządzeń na IPhonie 12 Pro, Samsungach funkcja przewijania informacji o zawodniku nie działa jak powinna. Po obróceniu ekranu już lepiej to wygląda.
 
 # TASK2
+### Subtask1
+https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing
+
+### Subtask2
+https://docs.google.com/spreadsheets/d/1ET_gpHckMqBnMJBz4a5IAK3vafWne70UFAO03J7RnTk/edit?usp=sharing
+
 ### Subtask 3
 
 _Why should we write test cases?_
@@ -61,7 +67,10 @@ _Why should we write test cases?_
 - writing test cases helps us to check if application meets the requirements of the user
 - helps to check the behavior of the application
 - helps us to keep consistency in testing
-- test cases are a source of informations for employees
+- test cases are a source of informations about application for employees
+
+### Subtask 4
+https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing
 
 
 
