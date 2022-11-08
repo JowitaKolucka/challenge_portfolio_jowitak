@@ -55,10 +55,10 @@ Po kliknięciu w homepage w dane tego zawodnika strona długo nie odpowiada, po 
 
 # TASK2
 ### Subtask1
-https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing
+__[Subtask1](https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing)__
 
 ### Subtask2
-https://docs.google.com/spreadsheets/d/1ET_gpHckMqBnMJBz4a5IAK3vafWne70UFAO03J7RnTk/edit?usp=sharing
+__[Subtask2](https://docs.google.com/spreadsheets/d/1ET_gpHckMqBnMJBz4a5IAK3vafWne70UFAO03J7RnTk/edit?usp=sharing)__
 
 ### Subtask 3
 
@@ -70,7 +70,7 @@ _Why should we write test cases?_
 - test cases are a source of informations about application for employees
 
 ### Subtask 4
-https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing
+__[Subtask4](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)__
 
 
 
