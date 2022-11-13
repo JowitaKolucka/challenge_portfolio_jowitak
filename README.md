@@ -58,7 +58,7 @@ Po kliknięciu w homepage w dane tego zawodnika strona długo nie odpowiada, po 
 __[Subtask1](https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing)__
 
 ### Subtask2
-__[Subtask2](https://docs.google.com/spreadsheets/d/1ET_gpHckMqBnMJBz4a5IAK3vafWne70UFAO03J7RnTk/edit?usp=sharing)__
+__[Subtask2](https://docs.google.com/spreadsheets/d/17aXryVwC_KJjK_7fEQuUaFH9VVKCezWeL1D1ATz1mZs/edit?usp=sharing)__
 
 ### Subtask 3
 
