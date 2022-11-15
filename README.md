@@ -72,5 +72,11 @@ _Why should we write test cases?_
 ### Subtask 4
 __[Subtask4](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)__
 
-
+# TASK3
+### Subtask1and2
+__[Subtask1and2](https://docs.google.com/spreadsheets/d/19OnQ9t3O9w3JdfsiuvQA0RNu8N6oGHDR3pL6XjfZ5iU/edit?usp=sharing)__
+### Subtask3
+__[Subtask3](https://docs.google.com/document/d/1hhjrp0n0Ihc8Z-Ac1N18rPhC7kWsmeCB4l8BnpVBySc/edit?usp=sharing)__
+### Subtask4
+__[Subtask4](https://docs.google.com/spreadsheets/d/1trzIb7EJdjzk6x9bkMN0su0mnncNOVoKCWpnPeS5vZI/edit?usp=sharing)__
 
