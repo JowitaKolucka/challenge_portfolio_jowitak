@@ -80,3 +80,10 @@ __[Subtask3](https://docs.google.com/document/d/1hhjrp0n0Ihc8Z-Ac1N18rPhC7kWsmeC
 ### Subtask4
 __[Subtask4](https://docs.google.com/spreadsheets/d/1trzIb7EJdjzk6x9bkMN0su0mnncNOVoKCWpnPeS5vZI/edit?usp=sharing)__
 
+# TASK4
+### Subtask1and2
+__[Subtask1and2](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2FtpVVNW4LAXqQRk99-HvD0/edit?usp=sharing)__
+
+### Subtask3
+
+
