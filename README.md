@@ -86,4 +86,5 @@ __[Subtask1and2](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2Ft
 
 ### Subtask3
 
+This application has been created for stressed people, parents, kids. In addition, this application can be helpful for people with depression, eating disorders. neurosis etc. I think that this application could be a good supplement for sports and a healthy lifestyle. 
 
