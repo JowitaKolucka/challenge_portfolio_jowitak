@@ -82,9 +82,9 @@ __[Subtask4](https://docs.google.com/spreadsheets/d/1trzIb7EJdjzk6x9bkMN0su0mnnc
 
 # TASK4
 ### Subtask1and2
-__[Subtask1and2](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2FtpVVNW4LAXqQRk99-HvD0/edit?usp=sharing)__
+:point_right:__[Subtask1and2](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2FtpVVNW4LAXqQRk99-HvD0/edit?usp=sharing)__
 
-### Subtask3
+### Subtask3 ☺️
 
 This application has been created for stressed people, parents, kids and everyone who take care about his mental health. In addition, this application can be helpful for people with depression, eating disorders. neurosis etc. I think that this application could be a good supplement for sports and a healthy lifestyle. I think that application is friendly for the user and interface looks nice. I would like to add new function to this app, like antistress games. Mobile app testing is more advanced than web ones. There are several web browsers, and there are plenty of smartphones and their software versions. Mobile apps looks diffrent than web applications.
 
