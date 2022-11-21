@@ -88,5 +88,8 @@ _Why should we write test cases?_
 
 This application has been created for stressed people, parents, kids and everyone who take care about his mental health. In addition, this application can be helpful for people with depression, eating disorders, anxiety, neurosis etc. I think that this application could be a good supplement for sports and a healthy lifestyle. In my opinion that application is friendly for the user and interface looks nice. I would like to add new function to this app, like antistress games. Mobile app testing is more advanced than web ones. There are several web browsers, and there are plenty of smartphones and their software versions. Mobile apps looks diffrent than web applications.
 
+### Subtask4
+:point_right:__[Jira](https://halas2022.atlassian.net/jira/people/635d61a2c97f5473af70ea8a)__
+
 
 
