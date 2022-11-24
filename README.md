@@ -93,7 +93,7 @@ This application has been created for stressed people, parents, kids and everyon
 
 # TASK5
 ### Subtask1
-👉__SQL__
+__👉SQL__
 - SELECT
 - SELECT DISCINT
 - WHERE, AND, NOT, NULL
