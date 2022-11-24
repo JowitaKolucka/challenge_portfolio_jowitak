@@ -120,6 +120,11 @@ __👉SQL__
 
 ![2022-11-24_21h52_29](https://user-images.githubusercontent.com/115720724/203861320-88c6b16e-c910-4f04-be13-d43f44deac87.png)
 
+:point_right: 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+![2022-11-24_22h21_15](https://user-images.githubusercontent.com/115720724/203864531-af666a9b-9cda-4f34-a1fe-f9d282a8ba43.png)
+
+
+
 
 
 
