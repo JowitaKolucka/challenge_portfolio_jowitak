@@ -91,5 +91,17 @@ This application has been created for stressed people, parents, kids and everyon
 ### Subtask4
 :point_right:__[Jira](https://halas2022.atlassian.net/jira/people/635d61a2c97f5473af70ea8a)__
 
+# TASK5
+### Subtask1
+- SELECT
+- SELECT DISCINT
+- WHERE, AND, NOT, NULL
+- TOP
+- MIN, MAX, COUNT, AVG, SUM
+- LIKE, BETWEEN
+- ORDER BY (DISC, ASC)
+- INSERT INTO, DELETE, UPDATE
+
+### Subtask3
 
 
