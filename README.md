@@ -106,10 +106,13 @@ __👉SQL__
 ### Subtask3
 👉 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 ![2022-11-24_21h35_14](https://user-images.githubusercontent.com/115720724/203860045-cbc01de1-14bb-4db3-8974-2acb0ac6908a.png)
+
 👉 2. Wyświetl film, który powstał w 2019 roku.
 ![2022-11-24_21h40_28](https://user-images.githubusercontent.com/115720724/203860440-f7ac578c-da84-4fab-8e39-706cb4f01647.png)
+
 👉 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 ![2022-11-24_21h43_57](https://user-images.githubusercontent.com/115720724/203860657-c9ab9cdf-f23b-46fe-8674-f53a262be7d6.png)
+
 👉 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
 
 
