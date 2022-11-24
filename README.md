@@ -127,6 +127,15 @@ __👉SQL__
 
 ![2022-11-24_22h24_48](https://user-images.githubusercontent.com/115720724/203864970-fef30e59-1879-4b54-8fc3-ede8c7134ace.png)
 
+👉 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+![2022-11-24_22h26_06](https://user-images.githubusercontent.com/115720724/203865103-1ea49c34-ede1-4d27-83ad-d94f5d7cc36d.png)
+
+👉 9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+![2022-11-24_22h28_15](https://user-images.githubusercontent.com/115720724/203865221-095129b6-88a1-4d17-8034-14175b68fffd.png)
+
+
+
 
 
 
