@@ -93,6 +93,7 @@ This application has been created for stressed people, parents, kids and everyon
 
 # TASK5
 ### Subtask1
+👉__SQL__
 - SELECT
 - SELECT DISCINT
 - WHERE, AND, NOT, NULL
@@ -103,5 +104,7 @@ This application has been created for stressed people, parents, kids and everyon
 - INSERT INTO, DELETE, UPDATE
 
 ### Subtask3
+👉 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+![2022-11-24_21h35_14](https://user-images.githubusercontent.com/115720724/203860045-cbc01de1-14bb-4db3-8974-2acb0ac6908a.png)
 
 
