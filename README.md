@@ -123,6 +123,10 @@ __👉SQL__
 :point_right: 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
 ![2022-11-24_22h21_15](https://user-images.githubusercontent.com/115720724/203864531-af666a9b-9cda-4f34-a1fe-f9d282a8ba43.png)
 
+👉 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+
+![2022-11-24_22h24_48](https://user-images.githubusercontent.com/115720724/203864970-fef30e59-1879-4b54-8fc3-ede8c7134ace.png)
+
 
 
 
