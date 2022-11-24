@@ -114,6 +114,11 @@ __👉SQL__
 ![2022-11-24_21h43_57](https://user-images.githubusercontent.com/115720724/203860657-c9ab9cdf-f23b-46fe-8674-f53a262be7d6.png)
 
 👉 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+![2022-11-24_21h48_02](https://user-images.githubusercontent.com/115720724/203860944-d57d889f-a920-44d8-a135-3e7843096f6b.png)
+
+👉 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+![2022-11-24_21h52_29](https://user-images.githubusercontent.com/115720724/203861320-88c6b16e-c910-4f04-be13-d43f44deac87.png)
+
 
 
 
