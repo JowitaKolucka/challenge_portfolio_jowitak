@@ -134,6 +134,11 @@ __👉SQL__
 
 ![2022-11-24_22h28_15](https://user-images.githubusercontent.com/115720724/203865221-095129b6-88a1-4d17-8034-14175b68fffd.png)
 
+👉 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+![2022-11-24_22h31_26](https://user-images.githubusercontent.com/115720724/203865510-6ca865e9-bbb6-4dc8-b271-2cd700070946.png)
+
+
 
 
 
