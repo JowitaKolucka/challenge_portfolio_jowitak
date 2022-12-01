@@ -140,6 +140,11 @@ __👉SQL__
 
 ![2022-11-24_22h31_26](https://user-images.githubusercontent.com/115720724/203865510-6ca865e9-bbb6-4dc8-b271-2cd700070946.png)
 
+# TASK6
+### Subtask1
+
+:point_right: 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
 
 
 
