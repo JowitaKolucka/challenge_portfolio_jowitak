@@ -181,6 +181,10 @@ __👉SQL__
 
 ![2022-12-02_17h39_45](https://user-images.githubusercontent.com/115720724/205341720-61854419-b2b8-424d-9be6-0403a863fe44.png)
 
+### Subtask 2 - Test
+![2022-12-02_18h53_17](https://user-images.githubusercontent.com/115720724/205355173-6fca5b21-dae2-4885-9aab-943428da7b27.png)
+
+
 
 
 
