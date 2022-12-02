@@ -101,7 +101,7 @@ __👉SQL__
 - MIN, MAX, COUNT, AVG, SUM
 - LIKE, BETWEEN
 - ORDER BY (DISC, ASC)
-- WILDCATS CHARACTERS, ALIASES
+- WILDCARDS CHARACTERS, ALIASES
 - IN 
 - INSERT INTO, DELETE, UPDATE
 
@@ -144,6 +144,9 @@ __👉SQL__
 ### Subtask1
 
 :point_right: 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+![2022-12-02_11h07_53](https://user-images.githubusercontent.com/115720724/205268561-7c7546ff-2eb2-4a47-844d-d8b98e33d851.png)
+
+:point_right: 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
 
 
