@@ -154,6 +154,8 @@ __👉SQL__
 ![2022-12-02_12h29_15](https://user-images.githubusercontent.com/115720724/205283199-df43a667-8b05-46bf-9341-d0434ea1ffd7.png)
 
 👉 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+![2022-12-02_15h28_03](https://user-images.githubusercontent.com/115720724/205315329-8f7d95fb-42df-464e-a07c-e38f3e1de1b9.png)
+
 
 👉 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
 
