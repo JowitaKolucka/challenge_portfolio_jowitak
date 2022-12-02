@@ -168,6 +168,10 @@ __👉SQL__
 ![2022-12-02_16h48_21](https://user-images.githubusercontent.com/115720724/205331736-c68f8db6-6d53-44c2-9ba7-ecd99ea1956a.png)
 
 👉 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+![2022-12-02_17h08_38](https://user-images.githubusercontent.com/115720724/205335612-88e6d974-ed78-4763-9fff-51e6941b18b6.png)
+![2022-12-02_17h08_51](https://user-images.githubusercontent.com/115720724/205335618-8e95ec61-7945-4be2-a737-55c17b657b33.png)
+
+👉 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
 
 
