@@ -174,6 +174,9 @@ __👉SQL__
 👉 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
 
+👉 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email= honia@mail.com oraz pseudonym = Hoa
+
+
 
 
 
