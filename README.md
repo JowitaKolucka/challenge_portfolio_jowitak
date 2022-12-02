@@ -177,7 +177,9 @@ __👉SQL__
 👉 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email= honia@mail.com oraz pseudonym = Hoa
 
 
+![2022-12-02_17h39_32](https://user-images.githubusercontent.com/115720724/205341712-3f4d9a56-395d-4f5a-b16a-5b8869f3391c.png)
 
+![2022-12-02_17h39_45](https://user-images.githubusercontent.com/115720724/205341720-61854419-b2b8-424d-9be6-0403a863fe44.png)
 
 
 
