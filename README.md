@@ -161,9 +161,13 @@ __👉SQL__
 
 👉 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
+![2022-12-02_16h38_53](https://user-images.githubusercontent.com/115720724/205330003-ad23ad72-1db3-4223-9eac-f45df63cef2a.png)
 
+👉 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 
+![2022-12-02_16h48_21](https://user-images.githubusercontent.com/115720724/205331736-c68f8db6-6d53-44c2-9ba7-ecd99ea1956a.png)
 
+👉 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
 
 
