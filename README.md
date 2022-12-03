@@ -144,6 +144,7 @@ __👉SQL__
 ### Subtask1
 
 :point_right: 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
 ![2022-12-02_11h07_53](https://user-images.githubusercontent.com/115720724/205268561-7c7546ff-2eb2-4a47-844d-d8b98e33d851.png)
 
 :point_right: 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
@@ -172,6 +173,9 @@ __👉SQL__
 ![2022-12-02_17h08_51](https://user-images.githubusercontent.com/115720724/205335618-8e95ec61-7945-4be2-a737-55c17b657b33.png)
 
 👉 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+![2022-12-03_16h27_25](https://user-images.githubusercontent.com/115720724/205448697-4fdf95f9-e16b-4d1b-9ecd-f6f02101ae30.png)
+
+
 
 
 👉 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email= honia@mail.com oraz pseudonym = Hoa
