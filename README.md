@@ -159,6 +159,8 @@ __👉SQL__
 
 
 👉 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+
 ![2022-12-08_11h50_27](https://user-images.githubusercontent.com/115720724/206428400-d276029e-8519-4f8c-8ebf-ed6bc63f06ae.png)
 ![2022-12-08_11h50_36](https://user-images.githubusercontent.com/115720724/206428406-1afb2df7-5979-4e10-97e2-b9c7b7ab7155.png)
 
